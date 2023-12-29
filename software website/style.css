@@ -181,7 +181,7 @@ border-radius: 22px;
     gap: 15px;
 }
 .inner-gallery{
-    flex: 1 1 300px;
+    flex:  100px;
 }
 .inner-gallery img{
     width: 100%;
